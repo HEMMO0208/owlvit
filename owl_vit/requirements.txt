@@ -1,0 +1,15 @@
+tensorflow
+jax
+pillow
+matplotlib
+contextlib2
+pyyaml
+flax
+einops
+tqdm
+ott-jax<0.4.0
+clu
+ftfy
+regex
+scikit-image
+supervision
